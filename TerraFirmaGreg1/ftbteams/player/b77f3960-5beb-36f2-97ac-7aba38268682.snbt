@@ -1,0 +1,17 @@
+{
+	id: "b77f3960-5beb-36f2-97ac-7aba38268682"
+	type: "player"
+	player_name: "Timmi2005"
+	ranks: {
+		b77f3960-5beb-36f2-97ac-7aba38268682: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Timmi2005"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5970FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

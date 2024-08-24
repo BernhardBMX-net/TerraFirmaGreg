@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b77f39605beb36f297ac7aba38268682"
+	name: "Timmi2005#b77f3960"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

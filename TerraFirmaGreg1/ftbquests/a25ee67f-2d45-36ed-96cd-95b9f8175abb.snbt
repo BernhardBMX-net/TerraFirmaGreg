@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a25ee67f2d4536ed96cd95b9f8175abb"
+	name: "Specky04#a25ee67f"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

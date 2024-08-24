@@ -1,0 +1,17 @@
+{
+	id: "43992341-d42d-3bbd-a390-480ca3107a1e"
+	type: "player"
+	player_name: "BernhardBMX"
+	ranks: {
+		43992341-d42d-3bbd-a390-480ca3107a1e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "BernhardBMX"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

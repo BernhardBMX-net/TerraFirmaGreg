@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "43992341d42d3bbda390480ca3107a1e"
+	name: "BernhardBMX#43992341"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
