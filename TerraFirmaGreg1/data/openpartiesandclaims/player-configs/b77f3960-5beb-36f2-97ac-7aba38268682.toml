@@ -7,7 +7,7 @@
 		name = ""
 		color = 0
 		protectClaimedChunks = true
-		bonusChunkClaims = 0
+		bonusChunkClaims = 1000
 		bonusChunkForceloads = 0
 
 		[playerConfig.claims.protection]
