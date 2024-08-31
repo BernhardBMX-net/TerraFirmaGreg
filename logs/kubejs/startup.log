@@ -1,44 +1,44 @@
-[12:22:28] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
-[12:22:28] [INIT] Loaded plugins:
-[12:22:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:22:28] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[12:22:28] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[12:22:28] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
-[12:22:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[12:22:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[12:22:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[12:22:28] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[12:22:28] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[12:22:28] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[12:22:28] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
-[12:22:28] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[12:22:28] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[12:22:28] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[12:22:28] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[12:22:29] [INFO] Loaded script startup_scripts:main_startup_script.js in 0.067 s
-[12:22:29] [INFO] Loaded script startup_scripts:firmalife/constants.js in 0.033 s
-[12:22:29] [INFO] Loaded script startup_scripts:tfc/constants.js in 0.024 s
-[12:22:29] [INFO] Loaded script startup_scripts:horornot/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:railways/constants.js in 0.001 s
-[12:22:29] [INFO] Loaded script startup_scripts:gtceu/items.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:gtceu/constants.js in 0.001 s
-[12:22:29] [INFO] Loaded script startup_scripts:gtceu/blocks.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:gtceu/machines.js in 0.003 s
-[12:22:29] [INFO] Loaded script startup_scripts:gtceu/material_info.js in 0.001 s
-[12:22:29] [INFO] Loaded script startup_scripts:gtceu/recipe_types.js in 0.001 s
-[12:22:29] [INFO] Loaded script startup_scripts:create_additions/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:more_red/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:ftb_quests/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:ae2/constants.js in 0.003 s
-[12:22:29] [INFO] Loaded script startup_scripts:asticor_carts/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:sophisticated_backpacks/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:firmaciv/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:firmaciv/blocks.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:mega_cells/constants.js in 0.004 s
-[12:22:29] [INFO] Loaded script startup_scripts:minecraft/constants.js in 0.008 s
-[12:22:29] [INFO] Loaded script startup_scripts:computer_craft/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:extended_ae2/constants.js in 0.001 s
-[12:22:29] [INFO] Loaded script startup_scripts:create/constants.js in 0.011 s
-[12:22:29] [INFO] Loaded script startup_scripts:framedblocks/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded script startup_scripts:chisel_and_bits/constants.js in 0.0 s
-[12:22:29] [INFO] Loaded 26/26 KubeJS startup scripts in 1.333 s with 0 errors and 0 warnings
+[09:44:48] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
+[09:44:48] [INIT] Loaded plugins:
+[09:44:48] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[09:44:48] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[09:44:48] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[09:44:48] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[09:44:48] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[09:44:48] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[09:44:48] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[09:44:48] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[09:44:48] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[09:44:48] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[09:44:48] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
+[09:44:48] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[09:44:48] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[09:44:48] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[09:44:48] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[09:44:49] [INFO] Loaded script startup_scripts:main_startup_script.js in 0.05 s
+[09:44:49] [INFO] Loaded script startup_scripts:firmalife/constants.js in 0.009 s
+[09:44:49] [INFO] Loaded script startup_scripts:tfc/constants.js in 0.021 s
+[09:44:49] [INFO] Loaded script startup_scripts:horornot/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:railways/constants.js in 0.001 s
+[09:44:49] [INFO] Loaded script startup_scripts:gtceu/items.js in 0.001 s
+[09:44:49] [INFO] Loaded script startup_scripts:gtceu/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:gtceu/blocks.js in 0.001 s
+[09:44:49] [INFO] Loaded script startup_scripts:gtceu/machines.js in 0.002 s
+[09:44:49] [INFO] Loaded script startup_scripts:gtceu/material_info.js in 0.002 s
+[09:44:49] [INFO] Loaded script startup_scripts:gtceu/recipe_types.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:create_additions/constants.js in 0.001 s
+[09:44:49] [INFO] Loaded script startup_scripts:more_red/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:ftb_quests/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:ae2/constants.js in 0.002 s
+[09:44:49] [INFO] Loaded script startup_scripts:asticor_carts/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:sophisticated_backpacks/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:firmaciv/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:firmaciv/blocks.js in 0.001 s
+[09:44:49] [INFO] Loaded script startup_scripts:mega_cells/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:minecraft/constants.js in 0.008 s
+[09:44:49] [INFO] Loaded script startup_scripts:computer_craft/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:extended_ae2/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded script startup_scripts:create/constants.js in 0.003 s
+[09:44:49] [INFO] Loaded script startup_scripts:framedblocks/constants.js in 0.001 s
+[09:44:49] [INFO] Loaded script startup_scripts:chisel_and_bits/constants.js in 0.0 s
+[09:44:49] [INFO] Loaded 26/26 KubeJS startup scripts in 1.186 s with 0 errors and 0 warnings
