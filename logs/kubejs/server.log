@@ -1,98 +1,98 @@
-[19:50:36] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
-[19:50:36] [INIT] Loaded plugins:
-[19:50:36] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[19:50:36] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[19:50:36] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
-[19:50:36] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
-[19:50:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[19:50:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[19:50:36] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
-[19:50:36] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
-[19:50:36] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
-[19:50:36] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[19:50:36] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
-[19:50:36] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
-[19:50:36] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
-[19:50:36] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
-[19:50:36] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
-[19:50:37] [INFO] Loaded script server_scripts:main_server_script.js in 0.003 s
-[19:50:37] [INFO] Loaded script server_scripts:create_connected/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:me_requester/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:treetap/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:treetap/data.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:firmalife/recipes.js in 0.006 s
-[19:50:37] [INFO] Loaded script server_scripts:firmalife/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:tfc/recipes.js in 0.055 s
-[19:50:37] [INFO] Loaded script server_scripts:tfc/data.js in 0.003 s
-[19:50:37] [INFO] Loaded script server_scripts:tfc/tags.js in 0.006 s
-[19:50:37] [INFO] Loaded script server_scripts:railways/recipes.js in 0.003 s
-[19:50:37] [INFO] Loaded script server_scripts:railways/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:etched/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:create_additions/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:create_additions/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:more_red/recipes.js in 0.002 s
-[19:50:37] [INFO] Loaded script server_scripts:more_red/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ftb_quests/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ftb_quests/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:tfc_grooming_station/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ae2iec/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:handglider/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ae2/utility.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ae2/recipes.js in 0.009 s
-[19:50:37] [INFO] Loaded script server_scripts:ae2/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:asticor_carts/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:asticor_carts/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:sophisticated_backpacks/recipes.js in 0.002 s
-[19:50:37] [INFO] Loaded script server_scripts:sophisticated_backpacks/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:firmaciv/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:firmaciv/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ae2na/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:exposure/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:ae2wtlib/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:hotornot/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:hotornot/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:mega_cells/recipes.js in 0.002 s
-[19:50:37] [INFO] Loaded script server_scripts:mega_cells/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:gregtech/utility.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:gregtech/recipes.js in 0.006 s
-[19:50:37] [INFO] Loaded script server_scripts:gregtech/constants.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:gregtech/data.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:gregtech/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:gregtech/loot.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:minecraft/recipes.js in 0.011 s
-[19:50:37] [INFO] Loaded script server_scripts:minecraft/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:computer_craft/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:computer_craft/data.js in 0.01 s
-[19:50:37] [INFO] Loaded script server_scripts:computer_craft/tags.js in 0.002 s
-[19:50:37] [INFO] Loaded script server_scripts:extended_ae2/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:extended_ae2/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:toolbelt/recipes.js in 0.004 s
-[19:50:37] [INFO] Loaded script server_scripts:framed_blocks/recipes.js in 0.003 s
-[19:50:37] [INFO] Loaded script server_scripts:framed_blocks/tags.js in 0.002 s
-[19:50:37] [INFO] Loaded script server_scripts:water_flasks/recipes.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:water_flasks/data.js in 0.0 s
-[19:50:37] [INFO] Loaded script server_scripts:create/recipes.js in 0.003 s
-[19:50:37] [INFO] Loaded script server_scripts:create/tags.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:chisel_and_bits/recipes.js in 0.001 s
-[19:50:37] [INFO] Loaded script server_scripts:chisel_and_bits/tags.js in 0.0 s
-[19:50:37] [INFO] Loaded 60/60 KubeJS server scripts in 0.222 s with 0 errors and 0 warnings
-[19:50:37] [INFO] Scripts loaded
-[19:50:37] [INFO] Initializing recipe event...
-[19:50:41] [INFO] [minecraft:fluid] Found 609 tags, added 77 objects, removed 0 objects
-[19:50:41] [INFO] [minecraft:worldgen/placed_feature] Found 115 tags, added 49 objects, removed 39 objects
-[19:50:44] [INFO] [minecraft:block] Found 1662 tags, added 476 objects, removed 0 objects
-[19:50:45] [INFO] [minecraft:item] Found 6438 tags, added 3507 objects, removed 0 objects
-[19:50:45] [INFO] Processing recipes...
-[19:50:46] [INFO] Found 55455 recipes in 1.125 s
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: copper
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: bismuth_bronze
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: bronze
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: black_bronze
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: wrought_iron
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: steel
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: black_steel
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: red_steel
-[19:50:47] [INFO] tfc_grooming_station/recipes.js#17: blue_steel
-[19:50:47] [INFO] Posted recipe events in 1.488 s
-[19:50:49] [INFO] Added 9142 recipes, removed 4926 recipes, modified 0 recipes, with 0 failed recipes in 1.894 s
-[19:50:52] [INFO] Server resource reload complete!
+[12:05:28] [INIT] KubeJS 2001.6.5-build.7; MC 2001 forge
+[12:05:28] [INIT] Loaded plugins:
+[12:05:28] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[12:05:28] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[12:05:28] [INIT] - io.github.mortuusars.exposure.integration.kubejs.ExposureJSPlugin
+[12:05:28] [INIT] - su.terrafirmagreg.core.compat.kjs.TFGKubeJSPlugin
+[12:05:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[12:05:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[12:05:28] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbfiltersystem.kubejs.FFSKubeJSPlugin
+[12:05:28] [INIT] - com.almostreliable.lootjs.kube.LootJSPlugin
+[12:05:28] [INIT] - com.blakebr0.cucumber.compat.kubejs.CucumberKubeJSPlugin
+[12:05:28] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[12:05:28] [INIT] - argent_matter.gcyr.integration.kjs.GCyRKubeJSPlugin
+[12:05:28] [INIT] - com.notenoughmail.kubejs_tfc.KubeJSTFCPlugin
+[12:05:28] [INIT] - com.notenoughmail.kubejs_tfc.addons.firmalife.FirmaLifePlugin
+[12:05:28] [INIT] - com.notenoughmail.kubejs_tfc.addons.tfccc.TFCCCPlugin
+[12:05:28] [INIT] - dev.latvian.mods.kubejs.create.KubeJSCreatePlugin
+[12:05:29] [INFO] Loaded script server_scripts:main_server_script.js in 0.002 s
+[12:05:29] [INFO] Loaded script server_scripts:create_connected/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:me_requester/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:treetap/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:treetap/data.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:firmalife/recipes.js in 0.009 s
+[12:05:29] [INFO] Loaded script server_scripts:firmalife/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:tfc/recipes.js in 0.047 s
+[12:05:29] [INFO] Loaded script server_scripts:tfc/data.js in 0.003 s
+[12:05:29] [INFO] Loaded script server_scripts:tfc/tags.js in 0.005 s
+[12:05:29] [INFO] Loaded script server_scripts:railways/recipes.js in 0.003 s
+[12:05:29] [INFO] Loaded script server_scripts:railways/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:etched/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:create_additions/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:create_additions/tags.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:more_red/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:more_red/tags.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:ftb_quests/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:ftb_quests/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:tfc_grooming_station/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:ae2iec/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:handglider/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:ae2/utility.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:ae2/recipes.js in 0.009 s
+[12:05:29] [INFO] Loaded script server_scripts:ae2/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:asticor_carts/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:asticor_carts/tags.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:sophisticated_backpacks/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:sophisticated_backpacks/tags.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:firmaciv/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:firmaciv/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:ae2na/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:exposure/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:ae2wtlib/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:hotornot/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:hotornot/tags.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:mega_cells/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:mega_cells/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:gregtech/utility.js in 0.002 s
+[12:05:29] [INFO] Loaded script server_scripts:gregtech/recipes.js in 0.008 s
+[12:05:29] [INFO] Loaded script server_scripts:gregtech/constants.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:gregtech/data.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:gregtech/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:gregtech/loot.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:minecraft/recipes.js in 0.02 s
+[12:05:29] [INFO] Loaded script server_scripts:minecraft/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:computer_craft/recipes.js in 0.002 s
+[12:05:29] [INFO] Loaded script server_scripts:computer_craft/data.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:computer_craft/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:extended_ae2/recipes.js in 0.003 s
+[12:05:29] [INFO] Loaded script server_scripts:extended_ae2/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:toolbelt/recipes.js in 0.003 s
+[12:05:29] [INFO] Loaded script server_scripts:framed_blocks/recipes.js in 0.002 s
+[12:05:29] [INFO] Loaded script server_scripts:framed_blocks/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:water_flasks/recipes.js in 0.0 s
+[12:05:29] [INFO] Loaded script server_scripts:water_flasks/data.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:create/recipes.js in 0.005 s
+[12:05:29] [INFO] Loaded script server_scripts:create/tags.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:chisel_and_bits/recipes.js in 0.001 s
+[12:05:29] [INFO] Loaded script server_scripts:chisel_and_bits/tags.js in 0.0 s
+[12:05:29] [INFO] Loaded 60/60 KubeJS server scripts in 0.202 s with 0 errors and 0 warnings
+[12:05:29] [INFO] Scripts loaded
+[12:05:29] [INFO] Initializing recipe event...
+[12:05:32] [INFO] [minecraft:fluid] Found 609 tags, added 77 objects, removed 0 objects
+[12:05:32] [INFO] [minecraft:worldgen/placed_feature] Found 115 tags, added 49 objects, removed 39 objects
+[12:05:35] [INFO] [minecraft:block] Found 1662 tags, added 476 objects, removed 0 objects
+[12:05:36] [INFO] [minecraft:item] Found 6438 tags, added 3507 objects, removed 0 objects
+[12:05:36] [INFO] Processing recipes...
+[12:05:37] [INFO] Found 55455 recipes in 1.128 s
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: copper
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: bismuth_bronze
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: bronze
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: black_bronze
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: wrought_iron
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: steel
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: black_steel
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: red_steel
+[12:05:39] [INFO] tfc_grooming_station/recipes.js#17: blue_steel
+[12:05:39] [INFO] Posted recipe events in 1.181 s
+[12:05:40] [INFO] Added 9142 recipes, removed 4926 recipes, modified 0 recipes, with 0 failed recipes in 1.670 s
+[12:05:43] [INFO] Server resource reload complete!
